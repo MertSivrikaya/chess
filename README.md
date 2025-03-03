@@ -1,2 +1,2 @@
 # chess
-A non-complete project I used to work on in Python
+A non-complete highschool project I used to work on in Python
